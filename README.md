@@ -1,6 +1,6 @@
 # web-ecom-6
 COURIER SERVICE APPLICATION DETAILS FOR DEVELOPMENT
-Suggestions by Evelyn Anyebe
+
 Project name: Deliveco
 This is a delivery web application for transporting cargo, parcels or goods to
 customers. Customers should oversee parcel packaging. Deliveco will offer
